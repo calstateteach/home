@@ -19,3 +19,7 @@ https://github.com/calstateteach/movie_upload_aws_lambdas
 LTI assignment URL redirects:
 
 https://github.com/calstateteach/lti_redirect
+
+Canvas Query Utility:
+
+https://github.com/calstateteach/get_canvas
